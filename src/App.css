@@ -102,9 +102,16 @@ input:checked + .slider:before {
   text-align: center;
   height: 90vp;
 }
-.daek-mode {
+
+.dark-theme-App {
   background-color: #282c34;
   color: #61dafb;
+  text-align: center;
+  height: 150vh;
+}
+.light-theme-App {
+  /* background-color: #282c34; */
+  color: black;
   text-align: center;
   height: 150vh;
 }
